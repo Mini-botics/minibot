@@ -1,0 +1,9 @@
+/home/neslisah/Documents/2023-2024Spring/ME462/dew_ws/src/mini_robot/build/CMakeFiles/uninstall.dir
+/home/neslisah/Documents/2023-2024Spring/ME462/dew_ws/src/mini_robot/build/CMakeFiles/mini_robot_uninstall.dir
+/home/neslisah/Documents/2023-2024Spring/ME462/dew_ws/src/mini_robot/build/CMakeFiles/test.dir
+/home/neslisah/Documents/2023-2024Spring/ME462/dew_ws/src/mini_robot/build/CMakeFiles/edit_cache.dir
+/home/neslisah/Documents/2023-2024Spring/ME462/dew_ws/src/mini_robot/build/CMakeFiles/rebuild_cache.dir
+/home/neslisah/Documents/2023-2024Spring/ME462/dew_ws/src/mini_robot/build/CMakeFiles/list_install_components.dir
+/home/neslisah/Documents/2023-2024Spring/ME462/dew_ws/src/mini_robot/build/CMakeFiles/install.dir
+/home/neslisah/Documents/2023-2024Spring/ME462/dew_ws/src/mini_robot/build/CMakeFiles/install/local.dir
+/home/neslisah/Documents/2023-2024Spring/ME462/dew_ws/src/mini_robot/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,27 @@
+twist_mux:
+  ros__parameters:
+    topics:
+      keyboard:
+        topic   : cmd_vel_teleop
+        timeout : 0.5
+        priority: 30
+      tracker:
+        topic   : cmd_vel_tracker
+        timeout : 0.5
+        priority: 20
+      joystick:
+        topic   : cmd_vel_joy
+        timeout : 0.5
+        priority: 100
+      bumper:
+        topic   : bumper_vel
+        timeout : 0.5
+        priority: 40
+      bumper:
+        topic   : emergency_vel
+        timeout : 0.5
+        priority: 40 
+      aruco:
+        topic   : cmd_vel_aruco
+        timeout : 0.5
+        priority: 20    
