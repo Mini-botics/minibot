@@ -8,7 +8,7 @@ An open-source, ROS-compatible mini robot project designed for educational purpo
 
 ![IMG_6124](https://github.com/user-attachments/assets/b58f25c6-24dd-42c1-b27c-4837a0b06d01)
 
-- **Minimal Cable Design**: All key components (battery, charger, BMS, etc.) are integrated into a single robot with minimal wiring, ensuring both efficiency and durability.
+- **Minimal Cable Design**: All key components (battery, charger, BMS, etc.) are integrated into a single robot using a custom PCB, minimizing wiring while ensuring both efficiency and durability.
 
 ![IMG_6101](https://github.com/user-attachments/assets/554815ef-a89c-46f1-b1be-22d6e6fe99c9)
 
@@ -19,7 +19,7 @@ An open-source, ROS-compatible mini robot project designed for educational purpo
 - **Affordable**: Engineered to be a cost-effective option for students and hobbyists alike, without sacrificing quality or performance.
 
 ## Getting Started
-To get started with the robot, please follow the documentations. You can also check our youtube channel https://youtu.be/GUFT_sU2eYY?si=J7au7F7RcKCbRmOR
+To get started with the robot, please follow the documentations. You can also check our youtube channel [https://youtu.be/GUFT_sU2eYY?si=J7au7F7RcKCbRmOR](https://www.youtube.com/@minibotics)
 
 Please note that this is an open-source project, and we welcome contributions and suggestions from the community.
 
