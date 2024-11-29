@@ -20,6 +20,7 @@ An open-source, ROS-compatible mini robot project designed for educational purpo
 
 ## Getting Started
 To get started with the robot, please follow the documentations.
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GUFT_sU2eYY/0.jpg)](https://www.youtube.com/watch?v=GUFT_sU2eYY&t)
 
 You can also check our [youtube channel](https://www.youtube.com/@minibotics). 
