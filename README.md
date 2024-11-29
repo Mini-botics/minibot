@@ -19,9 +19,10 @@ An open-source, ROS-compatible mini robot project designed for educational purpo
 - **Affordable**: Engineered to be a cost-effective option for students and hobbyists alike, without sacrificing quality or performance.
 
 ## Getting Started
-To get started with the robot, please follow the documentations. You can also check our [youtube channel](https://www.youtube.com/@minibotics). 
-
+To get started with the robot, please follow the documentations.
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GUFT_sU2eYY/0.jpg)](https://www.youtube.com/watch?v=GUFT_sU2eYY&t)
+
+You can also check our [youtube channel](https://www.youtube.com/@minibotics). 
 
 Please note that this is an open-source project, and we welcome contributions and suggestions from the community.
 
