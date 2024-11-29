@@ -19,7 +19,7 @@ An open-source, ROS-compatible mini robot project designed for educational purpo
 - **Affordable**: Engineered to be a cost-effective option for students and hobbyists alike, without sacrificing quality or performance.
 
 ## Getting Started
-To get started with the robot, please follow the documentations.
+To get started with the robot, please follow this video documentation.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GUFT_sU2eYY/0.jpg)](https://www.youtube.com/watch?v=GUFT_sU2eYY&t)
 
