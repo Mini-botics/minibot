@@ -1,8 +1,8 @@
 from machine import Pin, I2C
 import time
-from minibot_220 import Accelerometer  # Assuming Accelerometer is saved as accelerometer.py
-from minibot_220 import NeoPixel            # Assuming NeoPixel is saved as neopixel.py
-from minibot_220 import Button         # Assuming Button is saved as button.py
+from romer_minibot_lite import Accelerometer  # Assuming Accelerometer is saved as accelerometer.py
+from romer_minibot_lite import NeoPixel            # Assuming NeoPixel is saved as neopixel.py
+from romer_minibot_lite import Button         # Assuming Button is saved as button.py
 
 # Initialize the Accelerometer
 sda_pin = 12  # Replace with your SDA pin
